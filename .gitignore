@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+corpus/
+eval_data/
+*.zip
+model.onnx
+!example_submission/model.onnx

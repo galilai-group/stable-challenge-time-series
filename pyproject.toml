@@ -1,0 +1,31 @@
+[project]
+name = "stable-challenge-time-series"
+version = "0.1.0"
+description = "Self-supervised time series pretraining challenge with a GPU ONNX evaluation"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy",
+  "scikit-learn",
+  "onnx",
+  # 1.22 is the CUDA 12 build the score anchors were measured with (newer releases need CUDA 13)
+  "onnxruntime-gpu==1.22.*; sys_platform == 'linux'",
+  "onnxruntime==1.22.*; sys_platform != 'linux'",
+  "torch",
+  "torchvision",
+  "stable-pretraining>=0.1.8",
+]
+
+[tool.uv]
+package = false
+
+# On Linux, PyTorch's CUDA 12.6 build: it also brings the cuDNN/cuBLAS that onnxruntime-gpu loads, and runs on
+# older drivers than the default (CUDA 13) build.
+[[tool.uv.index]]
+name = "pytorch-cu126"
+url = "https://download.pytorch.org/whl/cu126"
+explicit = true
+
+[tool.uv.sources]
+torch = [{ index = "pytorch-cu126", marker = "sys_platform == 'linux'" }]
+torchvision = [{ index = "pytorch-cu126", marker = "sys_platform == 'linux'" }]

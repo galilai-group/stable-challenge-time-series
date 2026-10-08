@@ -1,0 +1,13 @@
+{
+  "slug": "stable-challenge-time-series",
+  "title": "stable-challenge-time-series",
+  "description": "",
+  "metric": "score",
+  "direction": "maximize",
+  "evaluator_version": "eval-a2f0c5b0aa353ad933ddc25d10f66660-e696f6e0",
+  "closes_at": null,
+  "anonymous": true,
+  "accepting_submissions": true,
+  "service_url": "https://script.google.com/macros/s/AKfycbz-LjlcVuaQ0fbjhPGhYtDi4XxTItsGMrmSXUkP4X59IkPv6WF-sJ-P3dHDJtJlBTb5/exec",
+  "submit_url": "https://script.google.com/macros/s/AKfycbz-LjlcVuaQ0fbjhPGhYtDi4XxTItsGMrmSXUkP4X59IkPv6WF-sJ-P3dHDJtJlBTb5/exec?challenge=stable-challenge-time-series"
+}

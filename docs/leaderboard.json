@@ -1,0 +1,51 @@
+{
+  "anonymous": true,
+  "groups": [],
+  "metric": "score",
+  "metrics": [
+    "score",
+    "score_task1",
+    "score_task10",
+    "score_task11",
+    "score_task12",
+    "score_task2",
+    "score_task3",
+    "score_task4",
+    "score_task5",
+    "score_task6",
+    "score_task7",
+    "score_task8",
+    "score_task9"
+  ],
+  "direction": "maximize",
+  "evaluator_version": "eval-a2f0c5b0aa353ad933ddc25d10f66660-e696f6e0",
+  "rows": [
+    {
+      "rank": 1,
+      "participant": "c111b7c86320b1e1",
+      "participant_id": "c111b7c86320b1e1",
+      "groups": [],
+      "score": -0.03777,
+      "metrics": {
+        "score": -0.03777,
+        "score_task1": 0.057344,
+        "score_task2": 0.024396,
+        "score_task3": 0.023377,
+        "score_task4": -0.051083,
+        "score_task5": 0.141155,
+        "score_task6": -0.214062,
+        "score_task7": -0.158182,
+        "score_task8": -0.343042,
+        "score_task9": -0.111903,
+        "score_task10": 0.229651,
+        "score_task11": -0.259462,
+        "score_task12": 0.129276
+      },
+      "status": "succeeded",
+      "submission_id": "df15aefc19d5edef857ab6ae5047f9490ab55d3a50072069d9b66d45d4887b37",
+      "submitted_at": "2026-10-07T01:24:05.018Z"
+    }
+  ],
+  "revision": 10,
+  "updated_at": "2026-10-07T23:58:37.411Z"
+}
