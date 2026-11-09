@@ -70,6 +70,6 @@
       "logs": "Evaluator did not return valid JSON. Organizers can inspect the private log for the traceback."
     }
   ],
-  "revision": 11,
-  "updated_at": "2026-11-09T19:07:07.023Z"
+  "revision": 12,
+  "updated_at": "2026-11-09T19:08:26.735Z"
 }
