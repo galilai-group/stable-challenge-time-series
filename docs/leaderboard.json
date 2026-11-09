@@ -44,8 +44,32 @@
       "status": "succeeded",
       "submission_id": "df15aefc19d5edef857ab6ae5047f9490ab55d3a50072069d9b66d45d4887b37",
       "submitted_at": "2026-10-07T01:24:05.018Z"
+    },
+    {
+      "rank": null,
+      "participant": "35e3997c616dc53a",
+      "participant_id": "35e3997c616dc53a",
+      "groups": [],
+      "score": null,
+      "metrics": {},
+      "status": "failed",
+      "submission_id": "e6cf20fbb83dee19fe2afd73bd4178cdb0ea43a3bb0381a82ab9f3cf23f3f194",
+      "submitted_at": "2026-11-04T23:50:56.621Z",
+      "logs": "Evaluator did not return valid JSON. Organizers can inspect the private log for the traceback."
+    },
+    {
+      "rank": null,
+      "participant": "6a72bf9f0d0c01cf",
+      "participant_id": "6a72bf9f0d0c01cf",
+      "groups": [],
+      "score": null,
+      "metrics": {},
+      "status": "failed",
+      "submission_id": "8a75c575dec7f4c7628d645ed20d0300a1ac213de50056de3ea78fa7fc20e191",
+      "submitted_at": "2026-10-07T15:09:46.247Z",
+      "logs": "Evaluator did not return valid JSON. Organizers can inspect the private log for the traceback."
     }
   ],
-  "revision": 10,
-  "updated_at": "2026-10-07T23:58:37.411Z"
+  "revision": 11,
+  "updated_at": "2026-11-09T19:07:07.023Z"
 }

@@ -8,6 +8,9 @@
   "closes_at": null,
   "anonymous": true,
   "accepting_submissions": true,
+  "max_bytes": 20971520,
+  "daily_limit": 5,
+  "repository": "galilai-group/stable-challenge-time-series",
   "service_url": "https://script.google.com/macros/s/AKfycbz-LjlcVuaQ0fbjhPGhYtDi4XxTItsGMrmSXUkP4X59IkPv6WF-sJ-P3dHDJtJlBTb5/exec",
   "submit_url": "https://script.google.com/macros/s/AKfycbz-LjlcVuaQ0fbjhPGhYtDi4XxTItsGMrmSXUkP4X59IkPv6WF-sJ-P3dHDJtJlBTb5/exec?challenge=stable-challenge-time-series"
 }
