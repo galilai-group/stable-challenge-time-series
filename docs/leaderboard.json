@@ -22,6 +22,31 @@
   "rows": [
     {
       "rank": 1,
+      "participant": "0043c1ec6443a12f",
+      "participant_id": "0043c1ec6443a12f",
+      "groups": [],
+      "score": 1.235037,
+      "metrics": {
+        "score": 1.235037,
+        "score_task1": 1.389378,
+        "score_task2": 1.32257,
+        "score_task3": 1.291057,
+        "score_task4": 1.877307,
+        "score_task5": 1.058681,
+        "score_task6": 1.088218,
+        "score_task7": 1.351237,
+        "score_task8": 1.119648,
+        "score_task9": 1.049658,
+        "score_task10": 0.945038,
+        "score_task11": 1.139433,
+        "score_task12": 1.76318
+      },
+      "status": "succeeded",
+      "submission_id": "4e07fbdeb747e45c887a901463cc5b9b09af51c12f250846a97db3f928370980",
+      "submitted_at": "2026-11-10T20:06:01.120Z"
+    },
+    {
+      "rank": 2,
       "participant": "35e3997c616dc53a",
       "participant_id": "35e3997c616dc53a",
       "groups": [],
@@ -46,7 +71,7 @@
       "submitted_at": "2026-11-04T23:50:56.621Z"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "participant": "6a72bf9f0d0c01cf",
       "participant_id": "6a72bf9f0d0c01cf",
       "groups": [],
@@ -71,7 +96,32 @@
       "submitted_at": "2026-10-07T15:09:46.247Z"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "participant": "5b82a83726e5bb6f",
+      "participant_id": "5b82a83726e5bb6f",
+      "groups": [],
+      "score": 0.693791,
+      "metrics": {
+        "score": 0.693791,
+        "score_task1": 0.76367,
+        "score_task2": 1.122334,
+        "score_task3": 1.2812,
+        "score_task4": 1.332242,
+        "score_task5": 0.745675,
+        "score_task6": -0.334286,
+        "score_task7": 1.091741,
+        "score_task8": 0.866464,
+        "score_task9": 0.825844,
+        "score_task10": 0.409249,
+        "score_task11": 0.936174,
+        "score_task12": 0.888756
+      },
+      "status": "succeeded",
+      "submission_id": "f8ea3996bb699e6b72f3101efbf897713652f6d89de9ebe5471122a4d9a663c2",
+      "submitted_at": "2026-11-10T16:12:51.512Z"
+    },
+    {
+      "rank": 5,
       "participant": "c111b7c86320b1e1",
       "participant_id": "c111b7c86320b1e1",
       "groups": [],
@@ -96,6 +146,6 @@
       "submitted_at": "2026-10-07T01:24:05.018Z"
     }
   ],
-  "revision": 19,
-  "updated_at": "2026-11-09T22:03:52.653Z"
+  "revision": 20,
+  "updated_at": "2026-11-13T04:05:22.070Z"
 }
