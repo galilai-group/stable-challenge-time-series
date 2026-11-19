@@ -72,6 +72,31 @@
     },
     {
       "rank": 3,
+      "participant": "af6575a0fb430a51",
+      "participant_id": "af6575a0fb430a51",
+      "groups": [],
+      "score": 1.241496,
+      "metrics": {
+        "score": 1.241496,
+        "score_task1": 1.269712,
+        "score_task2": 1.229573,
+        "score_task3": 0.955717,
+        "score_task4": 1.59096,
+        "score_task5": 1.133742,
+        "score_task6": 1.354886,
+        "score_task7": 1.395746,
+        "score_task8": 1.110549,
+        "score_task9": 1.039529,
+        "score_task10": 1.021383,
+        "score_task11": 1.154516,
+        "score_task12": 1.77333
+      },
+      "status": "succeeded",
+      "submission_id": "2ebf07800b5a32b655ee99e3a620e95a3cd81b10116f936a118ef3c8d6e18b18",
+      "submitted_at": "2026-11-18T15:30:42.566Z"
+    },
+    {
+      "rank": 4,
       "participant": "0043c1ec6443a12f",
       "participant_id": "0043c1ec6443a12f",
       "groups": [],
@@ -96,7 +121,7 @@
       "submitted_at": "2026-11-10T20:06:01.120Z"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "participant": "a2f8d68fdef46f5a",
       "participant_id": "a2f8d68fdef46f5a",
       "groups": [],
@@ -121,7 +146,7 @@
       "submitted_at": "2026-11-17T02:26:42.136Z"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "participant": "a2398daa3626edfe",
       "participant_id": "a2398daa3626edfe",
       "groups": [],
@@ -144,31 +169,6 @@
       "status": "succeeded",
       "submission_id": "568f95159eecb45c5eff94a372ca5d95dc8c8a490f82692bd5e8a9d9a35cbe9b",
       "submitted_at": "2026-11-17T17:25:35.643Z"
-    },
-    {
-      "rank": 6,
-      "participant": "af6575a0fb430a51",
-      "participant_id": "af6575a0fb430a51",
-      "groups": [],
-      "score": 1.076232,
-      "metrics": {
-        "score": 1.076232,
-        "score_task1": 1.192178,
-        "score_task2": 1.438787,
-        "score_task3": 1.049556,
-        "score_task4": 1.458191,
-        "score_task5": 1.078789,
-        "score_task6": 0.403521,
-        "score_task7": 1.333004,
-        "score_task8": 1.145353,
-        "score_task9": 1.097583,
-        "score_task10": 0.738933,
-        "score_task11": 1.216013,
-        "score_task12": 1.866322
-      },
-      "status": "succeeded",
-      "submission_id": "e7cf82f78e4fc9d7c01d79a8114f89fe20cfbc10c23bf5dfed38bf7eadb4067a",
-      "submitted_at": "2026-11-17T16:34:19.696Z"
     },
     {
       "rank": 7,
@@ -247,56 +247,81 @@
     },
     {
       "rank": 10,
-      "participant": "35e3997c616dc53a",
-      "participant_id": "35e3997c616dc53a",
-      "groups": [],
-      "score": 0.716796,
-      "metrics": {
-        "score": 0.716796,
-        "score_task1": 0.732659,
-        "score_task2": 0.945127,
-        "score_task3": 1.199345,
-        "score_task4": 1.702178,
-        "score_task5": 0.56974,
-        "score_task6": -0.401541,
-        "score_task7": 0.927767,
-        "score_task8": 0.837119,
-        "score_task9": 0.780389,
-        "score_task10": 0.518123,
-        "score_task11": 1.175222,
-        "score_task12": 2.016385
-      },
-      "status": "succeeded",
-      "submission_id": "8fbe6d0d1ab2493db4d425fcd222a97f3a6e976adc3b22f937ceabb0095266ba",
-      "submitted_at": "2026-11-16T20:44:35.433Z"
-    },
-    {
-      "rank": 11,
       "participant": "5b82a83726e5bb6f",
       "participant_id": "5b82a83726e5bb6f",
       "groups": [],
-      "score": 0.64441,
+      "score": 0.683133,
       "metrics": {
-        "score": 0.64441,
-        "score_task1": 0.575985,
-        "score_task2": 1.03336,
-        "score_task3": 1.026629,
-        "score_task4": 0.895041,
-        "score_task5": 0.669845,
-        "score_task6": -0.033827,
-        "score_task7": 1.273204,
-        "score_task8": 0.732706,
-        "score_task9": 0.691456,
-        "score_task10": 0.439146,
-        "score_task11": 0.759589,
-        "score_task12": 0.832807
+        "score": 0.683133,
+        "score_task1": 1.038273,
+        "score_task2": 1.247759,
+        "score_task3": 0.745105,
+        "score_task4": 0.974496,
+        "score_task5": 0.553928,
+        "score_task6": -0.47997,
+        "score_task7": 1.272162,
+        "score_task8": 1.001359,
+        "score_task9": 0.979747,
+        "score_task10": 0.452103,
+        "score_task11": 1.01388,
+        "score_task12": 0.786678
       },
       "status": "succeeded",
-      "submission_id": "c02e58e82d87f60c1db1a2ee79f93829073153823385149ff393c82750116598",
-      "submitted_at": "2026-11-15T04:40:22.448Z"
+      "submission_id": "3d5de62bd936c7dc9f4ad69cedd4eff4dfcfc2c22d4af795554dd0eb43d60f37",
+      "submitted_at": "2026-11-18T06:35:44.490Z"
+    },
+    {
+      "rank": 11,
+      "participant": "3414ed1a1a3d4513",
+      "participant_id": "3414ed1a1a3d4513",
+      "groups": [],
+      "score": 0.224693,
+      "metrics": {
+        "score": 0.224693,
+        "score_task1": 0.348466,
+        "score_task2": 0.452421,
+        "score_task3": 0.629709,
+        "score_task4": 0.341026,
+        "score_task5": -0.153855,
+        "score_task6": -0.199998,
+        "score_task7": 0.461709,
+        "score_task8": 0.611232,
+        "score_task9": 0.563492,
+        "score_task10": -0.207606,
+        "score_task11": 0.301943,
+        "score_task12": 0.641677
+      },
+      "status": "succeeded",
+      "submission_id": "c572f1ea6bb86fc52a51f9346d298663e9f2c102e260410fad23598940478d52",
+      "submitted_at": "2026-11-18T17:58:51.976Z"
     },
     {
       "rank": 12,
+      "participant": "35e3997c616dc53a",
+      "participant_id": "35e3997c616dc53a",
+      "groups": [],
+      "score": 0.197369,
+      "metrics": {
+        "score": 0.197369,
+        "score_task1": 0.218456,
+        "score_task2": 0.202645,
+        "score_task3": 0.279554,
+        "score_task4": 0.096082,
+        "score_task5": 0.593913,
+        "score_task6": 0.26003,
+        "score_task7": 0.626877,
+        "score_task8": -0.954278,
+        "score_task9": -0.612644,
+        "score_task10": 0.272145,
+        "score_task11": 0.638079,
+        "score_task12": 0.515673
+      },
+      "status": "succeeded",
+      "submission_id": "1ab330d7c247a1cfc35521f69c6222e4f6c712896e26cd9ac2c8a6ec947d308e",
+      "submitted_at": "2026-11-18T05:32:43.746Z"
+    },
+    {
+      "rank": 13,
       "participant": "c111b7c86320b1e1",
       "participant_id": "c111b7c86320b1e1",
       "groups": [],
@@ -321,6 +346,6 @@
       "submitted_at": "2026-10-07T01:24:05.018Z"
     }
   ],
-  "revision": 25,
-  "updated_at": "2026-11-18T04:53:27.661Z"
+  "revision": 26,
+  "updated_at": "2026-11-19T04:36:19.729Z"
 }
