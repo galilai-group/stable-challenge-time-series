@@ -147,6 +147,31 @@
     },
     {
       "rank": 6,
+      "participant": "5d277f84871ae441",
+      "participant_id": "5d277f84871ae441",
+      "groups": [],
+      "score": 1.187171,
+      "metrics": {
+        "score": 1.187171,
+        "score_task1": 1.418538,
+        "score_task2": 1.292835,
+        "score_task3": 1.776085,
+        "score_task4": 2.190596,
+        "score_task5": 0.897105,
+        "score_task6": 0.682087,
+        "score_task7": 1.318139,
+        "score_task8": 1.118966,
+        "score_task9": 0.934786,
+        "score_task10": 0.980727,
+        "score_task11": 1.17805,
+        "score_task12": 1.783737
+      },
+      "status": "succeeded",
+      "submission_id": "303f9850a42b6b115022a5917f8bc169a31b66ba9b8e21f91e47026cd625b89d",
+      "submitted_at": "2026-11-22T05:25:09.047Z"
+    },
+    {
+      "rank": 7,
       "participant": "c2ae36dbbc41b922",
       "participant_id": "c2ae36dbbc41b922",
       "groups": [],
@@ -171,7 +196,7 @@
       "submitted_at": "2026-11-21T05:49:08.770Z"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "participant": "a2398daa3626edfe",
       "participant_id": "a2398daa3626edfe",
       "groups": [],
@@ -196,7 +221,7 @@
       "submitted_at": "2026-11-17T17:25:35.643Z"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "participant": "7484995e95491f9a",
       "participant_id": "7484995e95491f9a",
       "groups": [],
@@ -221,7 +246,7 @@
       "submitted_at": "2026-11-22T03:20:49.576Z"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "participant": "92ea9148a62c1e1b",
       "participant_id": "92ea9148a62c1e1b",
       "groups": [],
@@ -244,31 +269,6 @@
       "status": "succeeded",
       "submission_id": "7343732e8ad77439ae5ff2a2527c8a6ad875fbe7ff7e473e4b16f1b015fe017b",
       "submitted_at": "2026-11-21T18:11:02.136Z"
-    },
-    {
-      "rank": 10,
-      "participant": "5d277f84871ae441",
-      "participant_id": "5d277f84871ae441",
-      "groups": [],
-      "score": 1.088004,
-      "metrics": {
-        "score": 1.088004,
-        "score_task1": 1.365603,
-        "score_task2": 1.211846,
-        "score_task3": 1.645464,
-        "score_task4": 1.902389,
-        "score_task5": 0.969673,
-        "score_task6": 0.537169,
-        "score_task7": 1.25323,
-        "score_task8": 1.005226,
-        "score_task9": 0.9711,
-        "score_task10": 0.923768,
-        "score_task11": 1.069857,
-        "score_task12": 1.083199
-      },
-      "status": "succeeded",
-      "submission_id": "eb4a9a387b0cc624493e45cad5fa72d350e7fc526535b94cdbbe93ccb69314ab",
-      "submitted_at": "2026-11-21T19:33:15.077Z"
     },
     {
       "rank": 11,
@@ -508,6 +508,6 @@
       "logs": "Evaluation timed out or its lease was lost."
     }
   ],
-  "revision": 29,
-  "updated_at": "2026-11-22T04:14:00.525Z"
+  "revision": 30,
+  "updated_at": "2026-11-22T18:29:40.686Z"
 }
