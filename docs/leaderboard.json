@@ -125,25 +125,25 @@
       "participant": "92ea9148a62c1e1b",
       "participant_id": "92ea9148a62c1e1b",
       "groups": [],
-      "score": 1.19792,
+      "score": 1.206478,
       "metrics": {
-        "score": 1.19792,
-        "score_task1": 1.052016,
-        "score_task2": 1.177256,
-        "score_task3": 1.18516,
-        "score_task4": 1.467064,
-        "score_task5": 1.057449,
-        "score_task6": 1.525223,
-        "score_task7": 1.338478,
-        "score_task8": 1.055954,
-        "score_task9": 1.022731,
-        "score_task10": 0.763919,
-        "score_task11": 1.274428,
-        "score_task12": 1.678799
+        "score": 1.206478,
+        "score_task1": 1.008173,
+        "score_task2": 1.204948,
+        "score_task3": 1.316254,
+        "score_task4": 1.406932,
+        "score_task5": 1.05374,
+        "score_task6": 1.683946,
+        "score_task7": 1.377959,
+        "score_task8": 1.032751,
+        "score_task9": 1.060774,
+        "score_task10": 0.661699,
+        "score_task11": 1.219972,
+        "score_task12": 1.544107
       },
       "status": "succeeded",
-      "submission_id": "caac076f561e273c16db55640eddaabdf086dd1e4707f16ebad0127692efcc74",
-      "submitted_at": "2026-11-23T02:04:52.247Z"
+      "submission_id": "a3cf53693b16ca40ad82a961ca4c252c8e3499ffece7615474f54d4912b5ad38",
+      "submitted_at": "2026-11-24T05:35:58.028Z"
     },
     {
       "rank": 6,
@@ -522,6 +522,31 @@
     },
     {
       "rank": 21,
+      "participant": "ff16a5bc594442eb",
+      "participant_id": "ff16a5bc594442eb",
+      "groups": [],
+      "score": 0.245628,
+      "metrics": {
+        "score": 0.245628,
+        "score_task1": 1.344964,
+        "score_task2": 1.333587,
+        "score_task3": 1.29502,
+        "score_task4": 1.639578,
+        "score_task5": 1.395788,
+        "score_task6": 1.523873,
+        "score_task7": 1.352227,
+        "score_task8": 1.114871,
+        "score_task9": 1.132168,
+        "score_task10": -7.111653,
+        "score_task11": -1.160423,
+        "score_task12": -5.720504
+      },
+      "status": "succeeded",
+      "submission_id": "10b84bdc91907e702b4335712d11cb77a2b48b383aaeced0e6553c5ff02901b4",
+      "submitted_at": "2026-11-24T05:38:08.361Z"
+    },
+    {
+      "rank": 22,
       "participant": "c111b7c86320b1e1",
       "participant_id": "c111b7c86320b1e1",
       "groups": [],
@@ -546,6 +571,6 @@
       "submitted_at": "2026-10-07T01:24:05.018Z"
     }
   ],
-  "revision": 34,
-  "updated_at": "2026-11-24T03:31:23.954Z"
+  "revision": 35,
+  "updated_at": "2026-11-26T04:15:17.573Z"
 }
